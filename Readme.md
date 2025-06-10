@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌟 Welcome to Stephen South's GitHub! 🌟  
+  🌟 Welcome to Lucastaa GitHub! 🌟  
 </h1>
 
 
