@@ -9,7 +9,7 @@
 ---
 
 # 💫 About Me:
-Hi there! I'm **Michael Crimson** **Michael Ray**, a **23-year-old tech enthusiast** passionate about:
+Hi there! I'm **Michael Crimson**, a **23-year-old tech enthusiast** passionate about:
 - 🌐 Web Development  
 - 🎮 Game Development  
 - 🧠 Artificial Intelligence  
