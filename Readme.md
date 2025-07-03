@@ -9,13 +9,13 @@
 ---
 
 # 💫 About Me:
-Hi there! I'm **Michael Crimson**, a **23-year-old tech enthusiast** passionate about:
-- 🌐 Web Development  
-- 🎮 Game Development  
+Hi there! I'm **Michael Crimson**, a **23-year-old tech enthusiast** passionate about: 
+- 🎮 Game Development
+- 📄 Database Administrator
 - 🧠 Artificial Intelligence  
 
-I'm constantly exploring new technologies and creating fun, impactful projects.  
-Let’s build the future — one line of code at a time!
+Technology is transforming the world around us. That's why I'm committed to contributing to a better, smarter future.
+Let's keep pushing forward to build a brighter tomorrow.
 
 ---
 
